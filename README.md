@@ -12,5 +12,3 @@ Yerel yönetimler
 Gönüllü fotoğraf/video sağlayıcılar yer alıyor.
 
 ## Bizim görevimiz: Tüm bu verileri tek bir yapay zekâ sisteminde toplayıp, dünyanın çöp krizine çözüm olmak.
-
-
